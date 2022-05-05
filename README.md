@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=sasuke0601&color=purple)
+![](https://komarev.com/ghpvc/?username=sasuke0601&color=yellow)
