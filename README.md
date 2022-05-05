@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=sasuke0601&color=yellow)
-<img align="right" width="300px" src="https://gfycat.com/ifr/EmbarrassedGreatAnaconda">
-
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/EmbarrassedGreatAnaconda' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/embarrassedgreatanaconda">via Gfycat</a></p>
