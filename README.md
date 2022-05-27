@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=sasuke0601&color=green)
 
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasuke0601&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasuke0601&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=dark">
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=sasuke0601&sshow_icons=true&theme=radical&count_private=true">
 </p>
