@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 
 ###  👨‍💻SAGC Webshop Head Developer🛒
  - SAGC Landing (https://shreddedapes.io)
-  <br />
  - SAGC Webshop (https://shreddedapes.shop)
   <br />
   
