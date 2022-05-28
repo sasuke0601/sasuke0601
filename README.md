@@ -20,7 +20,12 @@ Here are some ideas to get you started:
   👨‍💻SAGC Webshop Head Developer🛍🛒
   <br />
   <br />
-
+ - SAGC Landing (https://shreddedapes.io)
+  <br />
+ - SAGC Webshop (https://shreddedapes.shop)
+  <br />
+  <br />
+  
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
 <h4 align="center">
 More than 7 years of experience with web and app development, 2+ years of blockchain part. 
