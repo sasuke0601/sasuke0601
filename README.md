@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 &nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="Solana logo" title="Solana" height="40" />
 &nbsp;
-<img src="https://seeklogo.com/images/N/near-protocol-near-logo-3CBD263358-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="30" />
+<img src="https://seeklogo.com/images/N/near-protocol-near-logo-3CBD263358-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="26" />
 &nbsp;
 <img src="https://seeklogo.com/images/F/flow-dapper-labs-logo-295A562C2E-seeklogo.com.png" alt="Flow Dapper logo" title="Flow Dapper" height="30" />
 &nbsp;</span>
