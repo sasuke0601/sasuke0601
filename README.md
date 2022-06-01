@@ -42,7 +42,7 @@
 &nbsp;
 <br /><br />
 
-## Chain based
+## 💰 Chain based
 
 <span><img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="30" />
 &nbsp;
