@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sasuke0601/sasuke0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![](https://komarev.com/ghpvc/?username=sasuke0601&color=green)
 
 
@@ -55,7 +40,7 @@ Here are some ideas to get you started:
 &nbsp;
 <br /><br />
 
-## Chain based
+## 💰 Chain based
 <span><img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="30" />
 &nbsp;
 <img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.png" alt="Binance logo" title="Binance" height="30" />
