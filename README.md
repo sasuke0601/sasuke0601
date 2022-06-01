@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 &nbsp;
 <br /><br />
 
-###  👨‍💻SAGC Webshop Head Developer🛒
- - SAGC Landing (https://shreddedapes.io)
- - SAGC Webshop (https://shreddedapes.shop)
+###  👨‍💻SAGC Webshop Head Developer🐱‍👤
+ - SAGC Landing 🌐(https://shreddedapes.io)
+ - SAGC Webshop 🛒(https://shreddedapes.shop)
   <br />
   
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
