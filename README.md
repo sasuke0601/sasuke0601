@@ -71,9 +71,3 @@ More than 7 years of experience with web and app development, 2+ years of blockc
 - Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
 - Built DEXs, DAO on EVM and Solana
  
- 
-<p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasuke0601&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=merko">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=sasuke0601&sshow_icons=true&theme=merko&count_private=true">
-</p>
- 
